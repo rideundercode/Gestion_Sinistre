@@ -2,7 +2,9 @@
 Création clone pour gestion des sinistres AXA
 
 Premiere étape: Documentation
+
 https://www.axa.fr/services-assistance/declarer-sinistre.html
+
 https://www.axapartners.fr/fr/page/declaration-de-sinistres-assures
 
 [CFD09_Décès.pdf](https://github.com/user-attachments/files/17232593/CFD09_Deces.pdf)
